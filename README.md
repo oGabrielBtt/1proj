@@ -18,7 +18,8 @@ Meu primeiro projeto, cartão de visita digital.
 <br>
 
 <p align="center">
-  <img alt="PREVIEW 1PROJ" src=".github/preview.jpg" width="100%">
+  <img alt="PREVIEW 1PROJ" src=".github/preview-dark.png" width="45%">
+  <img alt="PREVIEW 1PROJ" src=".github/preview-light.png" width="45%">
 </p>
 
 ## 🚀 Tecnologias
