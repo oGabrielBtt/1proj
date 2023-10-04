@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O 1PROJ LINK é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/oGabrielBtt/1proj)
+- [Acesse o projeto finalizado, online](https://ogabrielbtt.github.io/1proj)
 
 ## 🔖 Layout
 
