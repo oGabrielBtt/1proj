@@ -8,7 +8,6 @@
 :root {
   --text-color: white;
   --bg-url: rgb(25, 25, 25);
-  /*--bg-url: url (./assets/bg-mobile.jpg)*/
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(255, 255, 255, 0.2);
@@ -19,7 +18,6 @@
 .light {
   --text-color: black;
   --bg-url: rgb(229, 229, 229);
-  /*--bg-url: url (./assets/bg-mobile-light.jpg)*/
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.2);
@@ -161,17 +159,6 @@ footer {
 footer a:hover {
   color: rgb(0, 81, 255);
 }
-
-/*@media (min-width: 700px) {
-
-  :root {
-    --bg-url: url(./assets/bg-dark2.jpg);
-  }
-  .light {
-    --bg-url: url(./assets/bg-light2.jpg);
-  }
-
-}*/
 
 /*animation button*/
 @keyframes slide-in {
